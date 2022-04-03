@@ -4,7 +4,6 @@
 - ***Mutagen*** is a Python module to handle audio metadata.
 
 ## **Install Mutagen**
---------------------------
 
 - Read mutagen docs [here](https://mutagen.readthedocs.io/en/latest/index.html).
 
@@ -29,7 +28,7 @@ or
 - When you are adding lyrics, first save lyrics to a text file.
 - Then add that text file's path when it ask.
 - You can add more custom tags.
-- Save all custom tags to text file or type one by one while running the script.
+- Save all custom tags to a text file or type one by one while running the script.
 - If you are using a text file to add custom tags, text file's format must be as below.<br>
 `Tag name: tag value, tag value, tag value,....`<br>
 `Tag name: tag value, tag value, tag value,....`<br>
